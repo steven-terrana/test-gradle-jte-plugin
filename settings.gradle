@@ -8,6 +8,6 @@
  */
 
 pluginManagement {
-    includeBuild '../jenkins-jobdsl-automation-starter'
+    includeBuild '../gradle-jte-plugin'
 }
 rootProject.name = 'inline-gradle-jte-plugin'
